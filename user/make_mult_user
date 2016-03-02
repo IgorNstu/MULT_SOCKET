@@ -1,0 +1,2 @@
+all:
+	gcc main.c ad.h prot_mult_user.c -o mult_user
